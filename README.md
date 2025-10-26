@@ -44,10 +44,13 @@ This project is a gameplay prototype built entirely in **Blueprints** using **Un
 - Unreal Engine 5.6  
 - No additional plugins required
 
+
 ## Getting Started
 
-1. Clone or download the repository.
-2. Open the project in Unreal Engine 5.6.
-3. Press **Play** to test the demo in the editor.
+1. Download and extract the build folder.
+2. Navigate to `Windows/Executable` inside the extracted folder.
+3. Run the executable to launch the demo.
+4. Alternatively, open the project in Unreal Engine 5.6 and press **Play** to test in the editor
+
 
 ---
